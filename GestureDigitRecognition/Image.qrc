@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Img/logo2.jpg</file>
+        <file>Img/signin.jpg</file>
+        <file>Img/logo.jpg</file>
+        <file>Img/backgrd1000,618.jpg</file>
+        <file>Img/user.jpg</file>
+        <file>Img/background.jpg</file>
+        <file>Img/viewbg - 副本.jpg</file>
+    </qresource>
+</RCC>
